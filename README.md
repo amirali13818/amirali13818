@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @amirali13818
-- 👀 I’m interested in programming and watching anime (One piece)
-- 🌱 I’m currently learning Java & Phyton
 - 📫 My email address : amirali13818@yahoo.com
 
 <!---
